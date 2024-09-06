@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "axios": "^1.7.5",
+    "baileys": "^6.7.7",
+    "chalk": "^5.3.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "nayan-media-downloader": "^2.4.8",
+    "node-tiklydown": "^2.0.0-lts",
+    "nodemon": "^3.1.4",
+    "ping": "^0.4.4",
+    "pino": "^9.3.2",
+    "pinterest-dl": "^1.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "rahad-media-downloader": "^2.1.14",
+    "wa-sticker-formatter": "^4.4.4",
+    "youtube-sr": "^4.3.11"
+  },
+  "name": "mybot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node message.js"
+  },
+  "author": "Naitzz",
+  "license": "ISC",
+  "description": ""
+}
